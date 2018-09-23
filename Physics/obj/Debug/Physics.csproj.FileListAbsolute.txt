@@ -1,0 +1,16 @@
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\bin\Debug\Physics.exe.config
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\bin\Debug\Physics.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\bin\Debug\Physics.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.csprojResolveAssemblyReference.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form1.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form2.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Properties.Resources.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.csproj.GenerateResource.Cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.csproj.CoreCompileInputs.cache
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.exe
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.pdb
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form3.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form4.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form5.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form6.resources
+C:\Users\Anton Tsarev\OneDrive\!PROG\!visualstudio2017\С#\Physics\Physics\obj\Debug\Physics.Form7.resources
